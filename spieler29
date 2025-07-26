@@ -1,9 +1,0 @@
-{
-  "status": "OK",
-  "tag": "payRequest",
-  "callback": "https://ev-ds.com/lnurlp/spieler29",
-  "metadata": "[[\"text/plain\", \"Zahlung an Spieler {spieler}\"]]",
-  "minSendable": 1000,
-  "maxSendable": 100000,
-  "commentAllowed": 64
-}
